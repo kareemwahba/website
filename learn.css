@@ -1,0 +1,84 @@
+body{
+    background: #F7971E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+header{
+background-color: yellow;
+height: 50px;
+width: px;
+}
+
+
+main{
+background-color:white;
+height: 2500px;
+width: 100%;
+
+}
+
+#img{
+    width: 5%;
+    height: 100%;
+    float: right;
+}
+der-radius: 5px;
+}
+
+nav{
+    width: 60%;
+}
+#h1{
+    font-family: 'Kavoon', cursive;
+    text-align: left;
+    font-size: 35px;
+}
+#hq{
+    
+    float: right;
+    font-size: 45px;
+    border: 200px;
+    background: #fffc00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5px;
+    text-align: right;
+}
+    
+#h2{
+    
+    float: right;
+    font-size: 45px;
+    border: 200px;
+    background: #fffc00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5px;
+    text-align: right;
+    
+    
+}
+    
+    #h3{
+        float: right;
+    font-size: 45px;
+    border: 200px;
+    background: #fffc00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5px;
+    text-align: right;
+    }
+
+#h4{
+    float: right;
+    font-size: 45px;
+    border: 200px;
+    background: #fffc00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #fffc00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #fffc00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5px;
+    text-align: right;
+}
